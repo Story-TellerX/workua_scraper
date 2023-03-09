@@ -22,3 +22,4 @@ if __name__ == "__main__":
         if not check_for_start_scraper():
             break
         run_the_scraper()
+        print("scrapping results")
